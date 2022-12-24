@@ -1,0 +1,10 @@
+{'email': 'julian@correo.com', 'subject': 'Hola', 'message': 'chau'}
+{'email': 'julian@correo.com', 'subject': 'Hola', 'message': 'chau'}
+{'email': 'julian@correo.com', 'subject': 'Hola', 'message': 'chau'}
+{'email': 'alicia@mail.com', 'subject': 'mensaje', 'message': 'hola'}
+{'email': 'alicia@mail.com', 'subject': 'mensaje', 'message': 'hola'}
+{'email': 'alicia@mail.com', 'subject': 'mensaje', 'message': 'hola'}
+{'email': 'alicia@mail.com', 'subject': 'mensaje', 'message': 'hola'}
+{'email': 'alicia@mail.com', 'subject': 'mensaje', 'message': 'hola'}
+{'email': 'alicia@mail.com', 'subject': 'mensaje', 'message': 'hola'}
+{'email': 'alicia@mail.com', 'subject': 'mensaje', 'message': 'hola'}
